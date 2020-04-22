@@ -22,7 +22,11 @@
         <junit.version>5.5.1</junit.version>
         <io.springfox.version>2.9.2</io.springfox.version>
         <modelmapper.version>2.3.0</modelmapper.version>
-    </properties>
+  <sonar.projectKey> jonata2020_pos-javaweb </sonar.projectKey>
+  <organização do sonar> jonata2020 </ organização dosonar>
+  <sonar.host.url> https://sonarcloud.io </sonar.host.url>
+  <sonar.login> 214cbb791e247d5e7a077c8b91344931d7f7df39 </sonar.login>
+         </properties>
 
     <dependencies>
         <dependency>
